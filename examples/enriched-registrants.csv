@@ -1,0 +1,12 @@
+Name,Email,Company,Title,Industry,Sub-Industry,Employees,Revenue Band,HQ Country,Multi-Entity,Company Type,Confidence,Attended
+Ava Calder,ava.calder@northwind.example,Northwind Logistics,VP Finance,Transportation,,750,$30M-$200M,US,Yes,Operating company,High,Yes
+Ben Frost,ben@bluepeak.example,Bluepeak Software,Head of FP&A,Software,Vertical SaaS,320,$30M-$200M,IE,Yes,Operating company,High,Yes
+Chloe Marsh,chloe.marsh@gmail.com,Lumen Analytics,Financial Controller,Software,Data/infra,180,$10M-$30M,UK,Unknown,Operating company,Medium,No (registered only)
+Dev Patel,dev@brightledger.example,Brightledger Advisory,Partner,Accounting,,25,,US,,Accounting/advisory firm,High,Yes
+Elena Rossi,elena@quarrylabs.example,Quarry Labs,Senior Accountant,Biotech,Biotech,90,,IT,No,Operating company,High,Yes
+Finn Hale,finn.hale@upland.example,Upland Manufacturing,CFO,Manufacturing,,1200,$200M-$1B,DE,Yes,Operating company,High,Yes
+Grace Lowry,grace@saffron.example,Saffron Retail,Controller,Retail,E-commerce,400,$30M-$200M,US,Yes,Operating company,High,No (registered only)
+Hugo Ivers,hugo.ivers@outlook.com,,,,,,,,,,,No (registered only)
+Isla Nolan,isla@zephyr.example,Zephyr Cloud,Founder & CEO,Software,Martech,45,<$10M,CA,No,Operating company,High,Yes
+Jonah Tull,jonah@globalcorp.example,GlobalCorp,Director of Finance,Financial Services,,40000,>$1B,US,Yes,Big enterprise >10k,High,Yes
+Kira Searle,kira@trellis.example,Trellis Education,Marketing Manager,Education,,150,$10M-$30M,AU,No,Operating company,High,Yes

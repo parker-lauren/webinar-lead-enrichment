@@ -1,0 +1,12 @@
+﻿Name,Email,Company,Title,Industry,Sub-Industry,Employees,Revenue Band,HQ Country,Multi-Entity,Company Type,Confidence,Attended,ICP Rank,Attendee Rank,ICP Score,ICP Tier,Next Action,Persona Fit,ICP Flag
+Ben Frost,ben@bluepeak.example,Bluepeak Software,Head of FP&A,Software,Vertical SaaS,320,$30M-$200M,IE,Yes,Operating company,High,Yes,1,1,92,A,Route to AE now,Accounting leader,Lookalike: vertical saas
+Grace Lowry,grace@saffron.example,Saffron Retail,Controller,Retail,E-commerce,400,$30M-$200M,US,Yes,Operating company,High,No (registered only),2,,92,A,Route to AE now; did not attend: send recording first,Economic buyer,Lookalike: e-commerce
+Chloe Marsh,chloe.marsh@gmail.com,Lumen Analytics,Financial Controller,Software,Data/infra,180,$10M-$30M,UK,Unknown,Operating company,Medium,No (registered only),3,,84,A,Route to AE now; did not attend: send recording first,Economic buyer,Lookalike: data/infra
+Ava Calder,ava.calder@northwind.example,Northwind Logistics,VP Finance,Transportation,,750,$30M-$200M,US,Yes,Operating company,High,Yes,4,2,83,A,Route to AE now,Economic buyer,
+Isla Nolan,isla@zephyr.example,Zephyr Cloud,Founder & CEO,Software,Martech,45,<$10M,CA,No,Operating company,High,Yes,5,3,66,B,SDR/AE follow-up,Exec (non-finance),Lookalike: martech
+Finn Hale,finn.hale@upland.example,Upland Manufacturing,CFO,Manufacturing,,1200,$200M-$1B,DE,Yes,Operating company,High,Yes,6,4,54,C,Nurture,Economic buyer,Excluded vertical
+Jonah Tull,jonah@globalcorp.example,GlobalCorp,Director of Finance,Financial Services,,40000,>$1B,US,Yes,Big enterprise >10k,High,Yes,7,5,48,C,Nurture,Economic buyer,Enterprise above ICP size
+Elena Rossi,elena@quarrylabs.example,Quarry Labs,Senior Accountant,Biotech,Biotech,90,,IT,No,Operating company,High,Yes,8,6,38,C,Nurture,Finance IC,Lookalike: biotech
+Dev Patel,dev@brightledger.example,Brightledger Advisory,Partner,Accounting,,25,,US,,Accounting/advisory firm,High,Yes,9,7,10,P,Partner/channel team,Non-finance,Partner/channel
+Kira Searle,kira@trellis.example,Trellis Education,Marketing Manager,Education,,150,$10M-$30M,AU,No,Operating company,High,Yes,10,8,29,D,Low priority,Non-finance,
+Hugo Ivers,hugo.ivers@outlook.com,,,,,,,,,,,No (registered only),11,,,U,Research employer,Unscored: no employer found,
